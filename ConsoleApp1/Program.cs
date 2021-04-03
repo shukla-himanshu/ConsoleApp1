@@ -10,6 +10,7 @@ namespace ConsoleApp1
 
     class ProgramA
     {
+        //test
         public int MyProperty;
 
         public void Print(int x)
